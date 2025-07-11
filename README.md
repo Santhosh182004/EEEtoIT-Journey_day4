@@ -1,2 +1,3 @@
-# EEEtoIT-Journey_day4
-My transition from Electrical Engineering to a Product-Based IT Developer using Java, DSA, and Projects.
+## ✅ Day 4:
+- [CheckPalindrome.java](./CheckPalindrome.java): Checks if input string is a palindrome.
+- [LinearSearch.java](./LinearSearch.java): Searches for key in array and prints position.
